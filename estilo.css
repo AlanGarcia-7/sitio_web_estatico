@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Chelsea Market', cursive;
+    text-align: center;
+    font-size: 55px;
+    color: rgb(0, 2, 100);
+}  
+h1:hover{
+    color: darkgoldenrod;    
+}
+a{text-decoration: none;
+    color: darkmagenta;
+    }
+    
+body{
+    background-image: url(25_free_linen_texture.jpg);
+}
+.index img{
+    width: 140px;
+}
+.pintores img{
+    width: 200px;
+    height: 250px;
+
+    
+}
+
+.container {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+padding: 90px;
+
+  }
+
+p{
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 111%;
+    
+}
